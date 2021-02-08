@@ -1,6 +1,4 @@
-![Last Statement](/images/github-title.png?raw=true)
-
-Last Statement is a macOS screensaver that displays the last statements of people executed by the State of Texas.
+Screensaver Spanish is a macOS screensaver that displays the word of the day in spanish.
 
 ## Screenshots
 
@@ -19,11 +17,11 @@ Last Statement is a macOS screensaver that displays the last statements of peopl
 
 ## Data
 
-The collected last statements used in this screensaver can be [accessed freely](https://last-statement.s3.amazonaws.com/executions.json) for use in your own projects.
+The word list was converted to json from an xml file at https://github.com/morenoh149/en-es-en-Dic
+
+If you know of a better source for the word list or a source for different languages I'd be happy to use that.
 
 ## Authors
+* Harry Moreno - [harrymoreno](https://harrymoreno.com)
 * Brad Root - [amiantos](https://github.com/amiantos)
-
-## Credits
-
-* [Texas Department of Criminal Justice](https://www.tdcj.texas.gov/death_row/index.html)
+* [mananoreboton](https://github.com/mananoreboton)
